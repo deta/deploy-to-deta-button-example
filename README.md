@@ -14,4 +14,4 @@ This is a simple python micro that uses FastAPI to say `hello`.
 
 Click the following image to deploy this micro in your own Deta project.
 
-[![Deploy](https://deta.button.url)](https://web.deta.sh/deploy?path=https://github.com/deta/deploy-on-deta-button-example)
+[![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/deta/deploy-on-deta-button-example)
