@@ -4,9 +4,8 @@
 	"env": [
 		{
 			"key": "USERNAME",
-			"description": "Your name",
-			"value": "bob",
-			"required": true
+			"description": "Your username",
+			"required": false 
 		}
 	]
 }
