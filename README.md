@@ -6,12 +6,12 @@ This is a simple python micro that uses FastAPI to say `hello`.
 
 ## Files
 
-- `deta.json`: specifies micro's metadata and environment variables, optional file
-- `main.py`: required for python Deta micros, implements the api
-- `requirements.txt`: required for python Deta micros, specifies which dependencies are needed for the micro
+- `deta.json`: specifies Micro's metadata and environment variables, optional
+- `main.py`: implements the api, required for Python Deta Micros
+- `requirements.txt`: specifies which dependencies are needed for the Micro, required if Python Micro has dependencies
 
 ## Deploy
 
-Click the following image to deploy this micro in your own Deta project.
+Click the following button to deploy this Micro in your own Deta project:
 
 [![Deploy](https://button.deta.dev/1/svg)](https://go.deta.dev/deploy?repo=https://github.com/deta/deploy-on-deta-button-example)
