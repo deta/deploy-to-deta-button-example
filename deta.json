@@ -1,6 +1,6 @@
 {
-	"name": "deta_button_eg",
-	"description": "Deploy on Deta button example micro",
+	"name": "deploy_button_eg",
+	"description": "Deploy to Deta button example Micro",
 	"env": [
 		{
 			"key": "USERNAME",
