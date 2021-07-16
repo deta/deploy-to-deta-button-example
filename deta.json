@@ -1,0 +1,11 @@
+{
+	"name": "deta_button_eg",
+	"description": "Deploy on Deta button example micro",
+	"env": [
+		{
+			"key": "USERNAME",
+			"description": "Your username",
+			"required": false 
+		}
+	]
+}
