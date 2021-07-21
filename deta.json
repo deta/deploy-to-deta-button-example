@@ -1,10 +1,10 @@
 {
-	"name": "deploy_button_eg",
-	"description": "Deploy to Deta button example Micro",
+	"name": "hello_world",
+	"description": "Deploy to Deta button example",
 	"env": [
 		{
-			"key": "USERNAME",
-			"description": "Your username",
+			"key": "NAME",
+			"description": "Your name",
 			"required": false 
 		}
 	]
