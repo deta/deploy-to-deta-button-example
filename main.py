@@ -5,5 +5,5 @@ app = FastAPI()
 
 @app.get("/")
 async def index():
-	name = os.getenv("USERNAME", "world")
+	name = os.getenv("NAME", "world")
 	return f"hello {name}!"
